@@ -1,6 +1,9 @@
 # RYZENTOSH-5600-550M-RX6750GRE
 
+
 > https://drama-blog.vercel.app/posts/hackintosh
+
+[👍 RX 6750GRE 显卡看这里👀](https://github.com/goozyshi/RYZENTOSH-5600-550M-RX6600-6750GRE/tree/6750gre)
 
 👏 **AMD YES** ‼️
 
