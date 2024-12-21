@@ -3,6 +3,10 @@
 
 > https://drama-blog.vercel.app/posts/hackintosh
 
+
+PS: 8月为了玩黑悟空，略微加了点钱买了讯景的 6750GRE 10G升级了一下，黑悟空好玩，黑苹果也好玩！🥳
+
+
 [👍 RX 6600 显卡看这里👀](https://github.com/goozyshi/RYZENTOSH-5600-550M-RX6600-6750GRE)
 
 👏 **AMD YES** ‼️
