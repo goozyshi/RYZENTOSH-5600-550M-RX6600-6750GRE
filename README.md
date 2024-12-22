@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/37e8de36-06b3-43e0-ad6b-9607af69d8bd)# RYZENTOSH-5600-550M-RX6750GRE
+# RYZENTOSH-5600-550M-RX6750GRE
 
 
 > https://drama-blog.vercel.app/posts/hackintosh
@@ -92,9 +92,9 @@ Navi 2x 系从 macOS Big Sur 开始支持 RX6000，到现在 macOS Sonoma 也就
 **‼️注意该驱动和 WhateverGreen.kext 冲突**，需要取消。
 
 ps： 现在无需再显卡仿冒，感谢 Noot 团队的 [@NootRx](https://github.com/ChefKissInc/NootRX) 项目，RX6700、RX6700XT、RX6700XL（XFX 矿卡特供）、RX6750XT、RX6750GRE（中国市场特供）已经可以在 macOS 正常驱动。
-## simbios 急性选择
+## simbios 机型选择
 
-![](https://blog.mrzorg.top/Hackintosh/2020-04-10-hackintosh-smbios-settings/smbios.png)
+![image](https://github.com/user-attachments/assets/37e8de36-06b3-43e0-ad6b-9607af69d8bd)
 
 ## 单硬盘双系统
 
