@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>24G325</string>
+	<string>24G231</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
-	<string>NootRX</string>
+	<string>ForgedInvariant</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.ChefKiss.NootRX</string>
+	<string>org.ChefKiss.ForgedInvariant</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>NootRX</string>
+	<string>ForgedInvariant</string>
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.0</string>
+	<string>1.5.0</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,7 +25,7 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.0.0</string>
+	<string>1.5.0</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -44,14 +44,14 @@
 	<string>16F6</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>org.ChefKiss.NootRX</key>
+		<key>ForgedInvariant</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>org.ChefKiss.NootRX</string>
+			<string>org.ChefKiss.ForgedInvariant</string>
 			<key>IOClass</key>
-			<string>NootRX</string>
+			<string>ForgedInvariant</string>
 			<key>IOMatchCategory</key>
-			<string>NootRX</string>
+			<string>ForgedInvariant</string>
 			<key>IOProviderClass</key>
 			<string>IOResources</string>
 			<key>IOResourceMatch</key>
@@ -59,17 +59,17 @@
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
-	<string>11.0</string>
+	<string>10.6</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2023-2024 ChefKiss. Licensed under the Thou Shalt Not Profit License version 1.5. See https://github.com/ChefKissInc/NootRX/LICENSE for details.</string>
+	<string>Copyright © 2024-2025 ChefKiss. Licensed under the Thou Shalt Not Profit License version 1.5. See https://github.com/ChefKissInc/ForgedInvariant/LICENSE for details.</string>
 	<key>OSBundleCompatibleVersion</key>
-	<string>1.0</string>
+	<string>1.5.0</string>
 	<key>OSBundleLibraries</key>
 	<dict>
 		<key>as.vit9696.Lilu</key>
 		<string>1.2.0</string>
-		<key>com.apple.iokit.IOPCIFamily</key>
-		<string>1.0.0b1</string>
+		<key>com.apple.iokit.IOACPIFamily</key>
+		<string>1.0.0d1</string>
 		<key>com.apple.kpi.bsd</key>
 		<string>10.0.0</string>
 		<key>com.apple.kpi.dsep</key>
@@ -84,6 +84,6 @@
 		<string>10.0.0</string>
 	</dict>
 	<key>OSBundleRequired</key>
-	<string>Safe Boot</string>
+	<string>Root</string>
 </dict>
 </plist>
